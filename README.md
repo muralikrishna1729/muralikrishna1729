@@ -2,7 +2,7 @@
 
 # Hi there, I'm Murali Krishna Vayalapalli 👋
 
-### Backend & AI Systems Developer | FastAPI · Python · AWS | B.Tech CSE '26
+### Backend Developer | AI/ML Enthusiast" | FastAPI · Python · AWS | B.Tech CSE '26
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+REST+APIs+with+FastAPI+%2B+PostgreSQL;Decoupling+workloads+with+Celery+%2B+Redis+%2B+SQS;Shipping+ML+pipelines+to+production+on+AWS;Open+to+SDE+%2F+Backend+%2F+ML+roles" alt="Typing SVG" />
 
@@ -18,12 +18,11 @@
 
 ## 🧭 About Me
 
-I'm a final-year Computer Science student at **RGUKT Srikakulam** (CGPA `8.76`), graduating in 2026 and actively interviewing for **Software Engineer / Backend Developer / ML Engineer** roles. I like building things end-to-end — API design, database schema, async processing, and cloud deployment — not just the "happy path" demo. My recent projects lean toward **backend systems with an AI/ML component**: transcription pipelines, ticket classifiers, anomaly detection services.
+I'm a Computer Science Graduate from **RGUKT Srikakulam** (CGPA `8.67`), (2026) and actively interviewing for **Software Engineer / Backend Developer / ML Engineer** roles. I like building things end-to-end — API design, database schema, async processing, and cloud deployment — not just the "happy path" demo. My recent projects lean toward **backend systems with an AI/ML component**: transcription pipelines, ticket classifiers, anomaly detection services.
 
 - 🔭 **Currently building:** Meeting Minutes API — audio-to-structured-summary pipeline with Celery, Redis & JWT auth
 - 🌱 **Currently deepening:** system design, async processing, production ML deployment
 - 🎓 **Certified:** NPTEL Cloud Computing (IaaS/PaaS/SaaS, virtualization, shared responsibility model)
-- 💼 **Cleared:** TCS NQT — national-level aptitude & coding assessment for SDE roles
 - 📫 **Reach me:** muralikrishana1729@gmail.com
 
 <br/>
